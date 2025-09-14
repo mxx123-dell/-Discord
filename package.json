@@ -1,0 +1,22 @@
+{
+  "name": "-discord",
+  "version": "1.0.0",
+  "description": "𝐤𝐤𝐢𝐫𝐫𝐮 𝐛𝐨𝐭 Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxx123-dell/-Discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxx123-dell/-Discord/issues"
+  },
+  "homepage": "https://github.com/mxx123-dell/-Discord#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
